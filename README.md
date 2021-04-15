@@ -1,2 +1,2 @@
-# Brute-Force-Cracker
-It is a method of cracking passwords
+# WARNING
+STILL IN DEVELOPMENT
