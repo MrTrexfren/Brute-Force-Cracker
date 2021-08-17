@@ -1,2 +1,2 @@
 # WARNING
-STILL IN DEVELOPMENT
+Im gonna be working on it now
