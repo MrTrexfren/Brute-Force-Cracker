@@ -34,3 +34,4 @@ while password.lower() != result:
 
 
 print("Done cracking your password is: ", result)
+os.system("pause")
